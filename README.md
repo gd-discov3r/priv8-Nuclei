@@ -1,2 +1,2 @@
 # priv8-Nuclei
-Exploitable vlu
+Exploitable vul
