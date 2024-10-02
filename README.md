@@ -1,2 +1,2 @@
 # priv8-Nuclei
-Exploitable vul
+Exploitable vul @gd_discov3r
